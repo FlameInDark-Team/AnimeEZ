@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://heroku.com/deploy?template=https://github.com/libDrive/heroku">
+    <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200" />
+  </a>
+
 # AnimeEZ
 # A new ui is out on live website (https://animeez.tk), Its in NextJS. Whenever stars reach 30. I will Update the repo to the new ui.
 **AnimeEZ - An Anime Streaming website (Demo - https://animeez.tk) BTW ITS MADE IN HTML** <br>
